@@ -1,0 +1,6 @@
+{
+  "name": "Engine Oil Pro",
+  "description": "Engine Oil Business Manager Pro: Inventory, Dealers, Credit & Recovery, Sales Team, GPS visits, and executive dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
